@@ -7,7 +7,7 @@ This is the description of our project
 >https://innerjoiner.com/guide/git-team-workflow-cheatsheet/
 
 ## Contributors
-These are the contributors:
+These are the contributors:  
 	- Calum  
 	- Nick  
 	- Aidan  
