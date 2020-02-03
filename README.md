@@ -29,8 +29,8 @@ These are the contributors:
 - [] Schedule
 	
 ###### Extras
-- [] Data visualization of grades and time logs
-- [] Customizable keyboard
+[] Data visualization of grades and time logs
+[] Customizable keyboard
 - [] Actions to open links, directories etc
 - [] Integrate to-do list with timer
 - [] Custom categorization of data items
