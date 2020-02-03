@@ -15,29 +15,25 @@ These are the contributors:
 	- Anthony  
 	
 ## To-Do List
-###### Team stuff
-	
+###### Team stuff	
 - [x] Finish project proposal
-
 - [] Finish team contract
 	
 ###### Must complete
 
-- [] Contact storage
-
-- [] Grade item
-
-- [] Pomodoro timer
-- [] To-do lists
-- [] Everything Categorized by course
-- [] Schedule
+- [ ] Contact storage
+- [ ] Grade item
+- [ ] Pomodoro timer
+- [ ] To-do lists
+- [ ] Everything Categorized by course
+- [ ] Schedule
 	
 ###### Extras
-[] Data visualization of grades and time logs
-[] Customizable keyboard
-- [] Actions to open links, directories etc
-- [] Integrate to-do list with timer
-- [] Custom categorization of data items
-- [] Look into using D2L/UCalgary APIS
-- [] Slack like feature
-- [] File sharing feature
+- [ ] Data visualization of grades and time logs
+- [ ] Customizable keyboard
+- [ ] Actions to open links, directories etc
+- [ ] Integrate to-do list with timer
+- [ ] Custom categorization of data items
+- [ ] Look into using D2L/UCalgary APIS
+- [ ] Slack like feature
+- [ ] File sharing feature
