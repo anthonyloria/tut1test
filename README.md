@@ -8,11 +8,11 @@ This is the description of our project
 
 ## Contributors
 These are the contributors:
-	* Calum
-	* Nick
-	* Aidan
-	* Leinard
-	* Anthony
+	- Calum  
+	- Nick  
+	- Aidan  
+	- Leinard  
+	- Anthony  
 	
 ## To-Do List
 	###### Team stuff
