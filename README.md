@@ -18,11 +18,15 @@ These are the contributors:
 ###### Team stuff
 	
 - [x] Finish project proposal
+
 - [] Finish team contract
 	
 ###### Must complete
+
 - [] Contact storage
+
 - [] Grade item
+
 - [] Pomodoro timer
 - [] To-do lists
 - [] Everything Categorized by course
