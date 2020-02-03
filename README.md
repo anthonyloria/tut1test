@@ -17,7 +17,7 @@ These are the contributors:
 ## To-Do List
 ###### Team stuff	
 - [x] Finish project proposal
-- [] Finish team contract
+- [ ] Finish team contract
 	
 ###### Must complete
 
